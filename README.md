@@ -1,3 +1,3 @@
-# word_of_the_day
-Ayla's Word of the Day website
+# word_a_day
+Ayla's Word a Day website
 
